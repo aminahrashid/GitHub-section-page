@@ -1,0 +1,160 @@
+.github-section{
+    background-color: #24292e;
+    margin-top: 61px;
+    margin-bottom: 40px;
+    height: 82vh;
+    margin-left: -8px;
+   
+    
+}
+
+.advert-stmt{
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 60px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 17px;
+    text-align-last: center;
+    line-height: 1.7;
+    padding-bottom: 40px;
+    
+
+}
+
+.inp-text{ 
+    position: relative;
+    left: 80px;
+}
+
+.heading-1{
+    color: white;
+    font-family: sans-serif;
+    
+
+}
+
+.inp-1{
+    background-color: white;
+    border-radius: 6px;
+    width: 252px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 5px;
+    border:1px solid white;
+
+
+}
+
+.inp-email{
+    position: absolute;
+    left: 403px;
+    top: 379px;
+}
+    
+
+
+
+.heading-2{
+    color: white;
+    font-family: sans-serif;
+}
+
+.inp-2{
+    background-color: white;
+    border-radius: 6px;
+    width: 252px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 5px;
+    border:1px solid white;
+
+}
+
+.inp-psw{
+    position: absolute;
+    left: 726px;
+    top: 379px;
+}
+
+.heading-3{
+    color: white;
+    font-family: sans-serif;
+    
+   
+}
+
+.inp-3{
+    background-color: white;
+    border-radius: 6px;
+    width: 252px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 5px;
+    border:1px solid white;
+
+}
+
+.inp-1:focus{
+    border:2px solid#569ef3 ;
+    border-radius: 6px;
+    outline: none;
+}
+
+.inp-2:focus{
+    border:2px solid#569ef3;
+    border-radius: 6px;
+    outline: none;
+}
+
+.inp-3:focus{  
+    border:2px solid #569ef3;
+    border-radius: 6px;
+    outline: none;
+    
+    }
+
+
+.btn{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 22px;
+    padding-bottom: 18px;
+    color: white;
+    background-color: #2ebc4f;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 15px;
+    position: absolute;
+    left: 1030px;
+    top: 395px;
+    border: 1px solid #2ebc4f;
+}
+.btn:focus{
+    border:2px solid #297f40;
+    border-radius:5px ;
+    outline: none;
+    background-color:#28a545; ;
+}
+
+
+.imp-info{
+    text-align: center;
+}
+
+.service-and-stmt{
+    color:#4b525a;
+    font-family: sans-serif;
+    padding-top: 40px;
+}
+
+.service-link-1{
+    color: white;
+    text-decoration: none;
+}
